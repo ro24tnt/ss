@@ -3,5 +3,6 @@
 
     <div class="widget widget-content more-on-site highlights">
         <?php echo Modules::run('template/places_list_block', $places_list); ?>
+        <br/>
     </div>
 </div>
